@@ -3,4 +3,8 @@
     <string name="tEmail"> Email </string>
     <string name="tPassword">Password</string>
     <string name="bSignin">Sign-in</string>
+    <string name="txEmail">Hasil Email</string>
+    <string name="txPass">Hasil Password</string>
+    <string name="tData">Data anda</string>
+    <string name="lable12">Login Berhasil</string>
 </resources>
