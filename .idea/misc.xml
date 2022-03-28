@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/layout/activity_daftaractivity.xml" value="0.264" />
-        <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/layout/activity_home.xml" value="0.1334853090172239" />
+        <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/layout/activity_lihat_data.xml" value="0.2" />
+        <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/layout/activity_main2.xml" value="0.24547101449275363" />
+        <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/layout/item_listview.xml" value="0.1334853090172239" />
         <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/menu/pendaftaran.xml" value="0.27025641025641023" />
+        <entry key="..\:/EGY/SM4/Module_Praktikum_2/app/src/main/res/menu/popup_menu.xml" value="0.1" />
         <entry key="..\:/kuleah SM.4/Praktikum2/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/kuleah SM.4/Praktikum2/app/src/main/res/layout/activity_main2.xml" value="0.2" />
       </map>

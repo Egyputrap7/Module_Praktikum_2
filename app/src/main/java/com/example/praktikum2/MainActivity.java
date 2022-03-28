@@ -84,9 +84,10 @@ public class MainActivity extends AppCompatActivity {
                         rrq.show();
 
                         //Membuat object intent untuk berpindah activity dari Mainactivity ke Mainactivity2
-                        Intent MU = new Intent(MainActivity.this,MainActivity2.class);
+                        Intent MU = new Intent(MainActivity.this,Home.class);
 
                         //Memasukan value  dari variable nama dengan kunci "gpx"
+
                         //dan dimasukan kedalam intent
                         MU.putExtra("gpx",nama);
 

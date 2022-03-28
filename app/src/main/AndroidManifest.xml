@@ -10,8 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Praktikum2">
         <activity
+            android:name=".ActivityLihatData"
+            android:parentActivityName=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:parentActivityName=".MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".Daftaractivity"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity2"
             android:exported="false"
